@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  align-items: center;
+}
+
+.boxButton {
+  border: 2px solid #000000;
+  margin-top: 30px;
+  width: 300px;
+  height: 60px;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
